@@ -1,7 +1,4 @@
-# Morse code
-Decode a Morse code message is a method used in telecommunication to encode text characters as standardized sequences of two different signal durations, called dots and dashes, or dits and dahs. Morse code is named after Samuel Morse, one of the inventors of the telegraph. 
-
-<!-- TABLE OF CONTENTS -->
+<a name="readme-top"></a>
 
 # 📗 Table of Contents
 
@@ -25,35 +22,36 @@ Decode a Morse code message is a method used in telecommunication to encode text
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
+# 📖 [your_project_name] <a name="about-project"></a>
 
-# 📖 Morse code <a name="about-project"></a>
+> Describe your project in 1 or 2 sentences.
 
-**Morse code** is a SQL database we made based on a diagram.
+**Decode Morse code** is an app that decodes any morse code into english.
 
 ## 🛠 Built With <a name="built-with"></a>
 
+- [ ] Ruby
+- [ ] Linters
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-<summary>Database</summary>
+  <summary>Client</summary>
   <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-     <li><a href="https://www.ruby.org/">Ruby</a></li>
+    <li><a href="https://rubyonrails.org/">Ruby</a></li>
   </ul>
 </details>
 
 ### Key Features <a name="key-features"></a>
 
-- **PostgreSql**
+- **Morse code translation**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- There is no live demo.
+- [ ] There is no live preview yet 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
@@ -62,19 +60,21 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-- Install PostgreSql
+- [ ] Ruby 
+- [ ] Code editor
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-- https://github.com/Munyabelden/Database_From_Diagram.git
+https://github.com/Munyabelden/Decode_Morse_Code.git
 
 ### Install
 
 Install this project with:
 
-- Command prompt
+sudo install ruby
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -95,7 +95,8 @@ Install this project with:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **More tables and try to nomalize it better**
+- [ ] **Add an input to enter morse code an get a tranlations**
+- [ ] **Functional testing**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -103,23 +104,24 @@ Install this project with:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Munyabelden/Database_From_Diagram/issues).
+Feel free to check the [issues page](https://github.com/Munyabelden/Decode_Morse_Code/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project give and a star and follow.
+If you like this project give it a star.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank to the PostgreSQL community and Microverse
+I would like to thank Ruby documentation and Microverse
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/Munyabelden/Database_From_Diagram/blob/develop/LICENSE) licensed.
+This project is [MIT](https://github.com/Munyabelden/Decode_Morse_Code/blob/develop/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
