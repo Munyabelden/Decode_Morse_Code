@@ -22,9 +22,7 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 [your_project_name] <a name="about-project"></a>
-
-> Describe your project in 1 or 2 sentences.
+# 📖 Decode the Morse code <a name="about-project"></a>
 
 **Decode Morse code** is an app that decodes any morse code into english.
 
